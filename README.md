@@ -1,3 +1,4 @@
+
 # 🏥 Mediplex AI — Public Health Intelligence Platform
 
 Mediplex AI is a modern, professional, and fully interactive public health awareness platform designed to educate individuals, promote preventive care, and facilitate smart health guidance. By combining server-side AI intelligence, high-fidelity responsive user interfaces, and structured relational database tracking, the platform serves as an intuitive digital entrypoint for health awareness and public safety.
@@ -140,3 +141,5 @@ To ensure accuracy and public credibility, Mediplex AI's knowledge base is desig
 - **Centers for Disease Control and Prevention (CDC):** [https://www.cdc.gov/](https://www.cdc.gov/)
 - **MedlinePlus Medicine Guidelines:** [https://medlineplus.gov/medicines.html](https://medlineplus.gov/medicines.html)
 - **Indian Council of Medical Research (ICMR):** [https://www.icmr.gov.in/](https://www.icmr.gov.in/)
+
+# MEDIPLEX-AI2.0
