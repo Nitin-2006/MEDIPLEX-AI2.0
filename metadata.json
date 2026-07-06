@@ -1,0 +1,6 @@
+{
+  "name": "MediPlex AI",
+  "description": "An intelligent full-stack public health disease awareness platform with AI assistant chatbot, symptoms awareness check, medicine guidelines, and human support messaging, built with React, Node.js, and Cloud SQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
