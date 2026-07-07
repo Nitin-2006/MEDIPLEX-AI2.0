@@ -1,5 +1,7 @@
 
 # 🏥 Mediplex AI — Public Health Intelligence Platform
+Link : https://mediplex-ai2-0.onrender.com/
+
 
 Mediplex AI is a modern, professional, and fully interactive public health awareness platform designed to educate individuals, promote preventive care, and facilitate smart health guidance. By combining server-side AI intelligence, high-fidelity responsive user interfaces, and structured relational database tracking, the platform serves as an intuitive digital entrypoint for health awareness and public safety.
 
